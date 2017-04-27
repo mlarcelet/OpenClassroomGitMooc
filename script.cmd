@@ -1,2 +1,2 @@
 @echo off
-echo something wrong
+echo something right
